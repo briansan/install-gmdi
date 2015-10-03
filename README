@@ -1,0 +1,14 @@
+ 
+  -- Install Google Material Design Icons --
+
+    A script that will pull all the Google
+    Material Design Icons from GitHub and
+    install them into a directory called
+    
+    /var/icons
+
+    This is meant to be helpful for GUI 
+    applications that desires to use free
+    and well-designed icons.
+
+    Only support for Linux operating system.
